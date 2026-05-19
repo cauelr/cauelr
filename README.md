@@ -7,7 +7,6 @@ Information Systems student focused on backend development and Artificial Intell
 - SQL
 - Git & GitHub
 - HTML/CSS
-- React (learning)
 
 ## 📚 Currently Studying
 - Data Structures
