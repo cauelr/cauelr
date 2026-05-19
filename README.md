@@ -1,6 +1,6 @@
 # Hi, I'm Cauê 👋
 
-Computer Science student focused on backend development and Artificial Intelligence.
+Information Systems student focused on backend development and Artificial Intelligence.
 
 ## 🚀 Technologies
 - Java
