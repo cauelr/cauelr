@@ -22,5 +22,5 @@ Information Systems student focused on backend development and Artificial Intell
 - Web fundamentals projects
 
 ## 📫 Contact
-- LinkedIn: SEU_LINK
-- Email: SEU_EMAIL
+- LinkedIn: https://www.linkedin.com/in/cauelr/
+- Email: caue.lrodrigues@hotmail.com
